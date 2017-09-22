@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
@@ -30,10 +31,10 @@
     
 	<!--//////////////////// SCM    ////////////////////-->
     <scm>
-        <url>https://github.com/Axway/rsql-jpa/</url>
-        <connection>scm:git:https://github.com/Axway/rsql-jpa.git</connection>
-        <developerConnection>scm:git:https://github.com/Axway/rsql-jpa.git</developerConnection>
-    	<tag>2.0.2-AXWAY-SNAPSHOT</tag>
+        <url>git@github.com:Axway/rsql-jpa.git</url>
+        <connection>scm:git:git@github.com:Axway/rsql-jpa.git</connection>
+        <developerConnection>scm:git:git@github.com:Axway/rsql-jpa.git</developerConnection>
+    	<tag>2.0.2-AXWAY-1</tag>
   </scm>
 
     <!--//////////////////// PROPERTIES ////////////////////-->
