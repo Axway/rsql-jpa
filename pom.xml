@@ -29,12 +29,12 @@
 	</developers>
     
 	<!--//////////////////// SCM    ////////////////////-->
-    <scm>
+    <!--scm>
         <url>https://github.com/Axway/rsql-jpa/</url>
         <connection>scm:git:https://github.com/Axway/rsql-jpa.git</connection>
         <developerConnection>scm:git:https://github.com/Axway/rsql-jpa.git</developerConnection>
     	<tag>2.0.2-AXWAY-SNAPSHOT</tag>
-  </scm>
+  </scm-->
 
     <!--//////////////////// PROPERTIES ////////////////////-->
 
